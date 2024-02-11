@@ -2,3 +2,4 @@
 .venv
 .vscode
 activate_venv.sh
+.pytest_cache
